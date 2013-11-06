@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Config>
+  <comport>AUTO</comport>
+  <baudrate>111100</baudrate>
+  <APMFirmware>ArduPlane</APMFirmware>
+  <TXT_loiterrad>45</TXT_loiterrad>
+  <TXT_WPRad>30</TXT_WPRad>
+  <Tracker_CMB_serialport />
+  <Tracker_CHK_revtilt>False</Tracker_CHK_revtilt>
+  <TXT_homealt>100</TXT_homealt>
+  <Tracker_TXT_tiltrange>90</Tracker_TXT_tiltrange>
+  <Tracker_TXT_pwmrangepan>1000</Tracker_TXT_pwmrangepan>
+  <MainHeight>576</MainHeight>
+  <Tracker_CHK_revpan>False</Tracker_CHK_revpan>
+  <maplast_lng>170.54162979126</maplast_lng>
+  <MainLocY>76</MainLocY>
+  <menu_autohide>false</menu_autohide>
+  <maplast_lat>-45.8878569289728</maplast_lat>
+  <NUM_tracklength>200</NUM_tracklength>
+  <CHK_altmode>False</CHK_altmode>
+  <TXT_homelng />
+  <TXT_DefaultAlt>100</TXT_DefaultAlt>
+  <Tracker_CMB_interface>Maestro</Tracker_CMB_interface>
+  <MainMaximised>Normal</MainMaximised>
+  <FlightSplitter>358</FlightSplitter>
+  <TXT_homelat />
+  <Tracker_TRK_tilttrim>0</Tracker_TRK_tilttrim>
+  <Tracker_TXT_panrange>360</Tracker_TXT_panrange>
+  <Tracker_TXT_centertilt>1500</Tracker_TXT_centertilt>
+  <maplast_zoom>10.714</maplast_zoom>
+  <MainLocX>171</MainLocX>
+  <MainWidth>1024</MainWidth>
+  <Tracker_CMB_baudrate />
+  <update_check>7/08/2013</update_check>
+  <Tracker_TXT_centerpan>1500</Tracker_TXT_centerpan>
+  <Tracker_TRK_pantrim>0</Tracker_TRK_pantrim>
+  <Tuning_Graph_Selected>roll|pitch|nav_roll|nav_pitch|</Tuning_Graph_Selected>
+  <Tracker_TXT_pwmrangetilt>1000</Tracker_TXT_pwmrangetilt>
+</Config>
