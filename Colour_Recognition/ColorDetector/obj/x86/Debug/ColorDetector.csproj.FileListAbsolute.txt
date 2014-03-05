@@ -1,0 +1,8 @@
+C:\Users\chasewk1\Downloads\ColorDetector\bin\Debug\ColorDetector.exe
+C:\Users\chasewk1\Downloads\ColorDetector\bin\Debug\ColorDetector.pdb
+C:\Users\chasewk1\Downloads\ColorDetector\obj\x86\Debug\ColorDetector.csprojResolveAssemblyReference.cache
+C:\Users\chasewk1\Downloads\ColorDetector\obj\x86\Debug\ColorDetector.ColorDetectForm.resources
+C:\Users\chasewk1\Downloads\ColorDetector\obj\x86\Debug\ColorDetector.Properties.Resources.resources
+C:\Users\chasewk1\Downloads\ColorDetector\obj\x86\Debug\ColorDetector.csproj.GenerateResource.Cache
+C:\Users\chasewk1\Downloads\ColorDetector\obj\x86\Debug\ColorDetector.exe
+C:\Users\chasewk1\Downloads\ColorDetector\obj\x86\Debug\ColorDetector.pdb
