@@ -1,0 +1,8 @@
+D:\ColourDetection\Colour Detection\Colour Detection\bin\Debug\Colour Detection.exe
+D:\ColourDetection\Colour Detection\Colour Detection\bin\Debug\Colour Detection.pdb
+D:\ColourDetection\Colour Detection\Colour Detection\obj\x86\Debug\Colour_Detection.Form1.resources
+D:\ColourDetection\Colour Detection\Colour Detection\obj\x86\Debug\Colour_Detection.Properties.Resources.resources
+D:\ColourDetection\Colour Detection\Colour Detection\obj\x86\Debug\Colour Detection.csproj.GenerateResource.Cache
+D:\ColourDetection\Colour Detection\Colour Detection\obj\x86\Debug\Colour Detection.exe
+D:\ColourDetection\Colour Detection\Colour Detection\obj\x86\Debug\Colour Detection.pdb
+D:\ColourDetection\Colour Detection\Colour Detection\obj\x86\Debug\Colour Detection.csprojResolveAssemblyReference.cache
